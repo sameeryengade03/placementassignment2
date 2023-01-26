@@ -1,0 +1,29 @@
+.wrap{
+    display: flex;
+    gap: 55rem;
+    align-items: center;
+}
+.wrap h3{
+    margin-left: 2rem;
+    /* width: 8rem; */
+    color: white;
+    text-shadow: 0.1rem 0.1rem black;
+    margin-top: 0.5rem;
+}
+.user{
+    display: flex;
+    gap: 4rem;
+    align-items: center;
+}
+.admin{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+.image{
+    overflow: hidden;
+    width: 3rem;
+    height: 3rem;
+    border: 1px solid;
+    border-radius: 50%;
+ }

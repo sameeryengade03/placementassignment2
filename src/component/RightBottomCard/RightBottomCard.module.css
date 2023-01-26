@@ -1,0 +1,53 @@
+.Personal{
+    display: flex;
+    margin-left: 2em;
+    gap: 3em;
+  }
+  .details{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: antiquewhite;
+    width: 8rem;
+  }
+  .main{
+    
+    margin-top: 3rem;
+    padding-left: 2rem;
+  }
+  .address{
+    display: flex;
+    flex-direction: row;
+    gap:6rem;
+    padding-left:2rem;
+  }
+  .addressLine1{
+  display: flex;
+  flex-direction: column;
+  gap:1.5rem;
+  }
+  .addressLine2{
+    display: flex;
+    flex-direction: column;
+    gap:1.5rem;
+    margin-right: 3rem;
+    }
+
+    .Add{
+        margin-top: 3rem;
+    }
+  .Add1{
+    display: flex;
+    justify-content: space-between;
+    width : 40rem;
+    padding: 0.5rem;
+  }
+  .Add2{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    padding: 0.5rem;
+     
+    width : 40rem;
+  }
+   

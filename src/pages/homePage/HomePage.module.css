@@ -1,0 +1,31 @@
+@media screen  and (min-width : 1024px){
+ *{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+ }
+    .container{
+        background-color: rgb(248, 250, 215);
+    }
+.subContainer{
+    display: flex;
+    height: 92vh;
+    gap: 1rem;
+}
+.nav{
+    height: 8vh;
+    background-color: rgb(244, 255, 39);
+}
+
+.leftSec{
+    flex: 0.4;
+    border: 0px solid;
+    background-color: white;
+
+}
+.rightSec{
+    flex: 1;
+    border: 0px solid rgb(211, 225, 11);
+    background-color: antiquewhite;
+}
+}

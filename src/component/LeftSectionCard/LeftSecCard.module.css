@@ -1,0 +1,37 @@
+@media screen and (min-width:1024px){
+    
+
+.Container{
+    border: 0px solid;
+    background-color: white;
+    cursor: pointer;
+
+}
+
+
+.subContainer{
+    display: flex;
+    gap: 1rem;
+    border: 0px solid;
+   padding: 1.5rem 1rem;
+    height: 5vh;
+    /* margin-top: 1rem; */
+
+}
+.subContainer:hover{
+    background-color: antiquewhite;
+}
+
+.name{
+    font-weight: bold;
+}
+
+.image{
+    overflow: hidden;
+    width: 3rem;
+    height: 3rem;
+    border: 1px solid;
+    border-radius: 50%;
+}
+
+}

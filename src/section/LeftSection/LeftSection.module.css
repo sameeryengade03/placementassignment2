@@ -1,0 +1,25 @@
+.wrap{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: rgb(197, 194, 194);
+    height: 40rem;
+}
+
+
+.card{
+    margin-top: 0.5rem;
+}
+.inputAndBtn{
+    display: flex;
+    margin-top: 1rem;
+}
+.inputBtn{
+    width: 18rem;
+    height: 2rem;
+    font-size: 1.5rem;
+}
+.btn{
+    width: 2rem;
+    height: 2.2rem;
+    font-size: 2rem;
+}

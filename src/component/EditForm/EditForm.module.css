@@ -1,0 +1,44 @@
+.btnEdt{
+    color: brown;
+    padding: 0.5em;;
+    border: 0.1em solid  ;
+  }
+
+  .main {
+    display: flex;
+    flex-direction: column;
+   /* align-items: center; */
+  /* padding: 1rem; */
+  width: 30rem;
+    height: 40rem;
+    /* margin-top: 2rem; */
+    padding-top: 2rem;
+    /* background-color: black; */
+  }
+  /* .main input{
+    width: 15rem;
+    height: 5rem;
+    /* margin-top: 2rem */
+ .btn{
+    display: flex;
+    justify-content: space-around;
+ }
+ .btn button{
+    width: 8rem;
+    height: 2rem;
+    border-radius: 0.1rem;
+ }
+ .main label {
+    color:  rgb(0, 0, 0);
+    background-color: antiquewhite;
+    border: 0px solid;
+    /* margin-bottom: 1rem; */
+ }
+ .main input{
+    height: 1.5rem;
+    font-size: 1.5rem;
+   /* margin-bottom: 1rem; */
+ }
+.wrapper{
+    background-color: aquamarine;
+}
